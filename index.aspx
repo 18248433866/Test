@@ -1,7 +1,7 @@
-﻿<%@ page language="C#" autoeventwireup="true" inherits="index, App_Web_bbo2su3s" %>
+﻿<%@ page language="C#" autoeventwireup="true" inherits="index, App_Web_4eykgzze" %>
 
 <!DOCTYPE html>
-<html>
+<html lang="">
 <head>
   <meta charset="utf-8">
 	<title>Woop - Portfolio Template</title>
@@ -274,6 +274,5 @@
 <footer>
 	<p>&copy; 2012 All rights reserved</p>
 </footer>
-
         </body>
     </html>
